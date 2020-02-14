@@ -1,0 +1,1 @@
+Splash texts are at line 2915 in bundle.js
